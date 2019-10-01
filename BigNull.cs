@@ -1,4 +1,6 @@
-/// <summary>
+namespace Nullcheck
+{
+    /// <summary>
     /// BigNull class
     /// </summary>
     public class BigNull
@@ -95,3 +97,4 @@
             return IsNull(o);
         }
     }
+}
