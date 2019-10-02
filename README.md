@@ -1,2 +1,2 @@
 BigNull
-Die ist eine kleine Klasse welche die verschiedenen Möglichkeiten für eine Null-Prüfung zeigt. Benötigt wird C# ab Version 6.0.
+This is a small class showing the different possibilities for a null check. C# is required from version 6.0.
